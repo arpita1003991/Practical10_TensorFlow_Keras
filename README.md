@@ -21,15 +21,15 @@ Google Colab (for implementation)
 
 **Steps to Run the Project**
 
-Open Google Colab
+1.Open Google Colab
 
 Go to colab.research.google.com
 
-Create a new notebook
+2.Create a new notebook
 
 Rename it as Practical10_TensorFlow_Keras.ipynb
 
-Copy–paste the following code:
+3.Copy–paste the following code:
 
 import tensorflow as tf
 from tensorflow import keras
@@ -68,11 +68,11 @@ plt.show()
 model.save("mnist_digit_model.h5")
 
 
-Run all cells
+4.Run all cells
 
 Expected test accuracy: 0.97 – 0.99
 
-Upload output files to GitHub
+5.Upload output files to GitHub
 
 mnist_digit_model.h5
 
